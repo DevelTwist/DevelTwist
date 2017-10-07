@@ -1,0 +1,337 @@
+.img-background{
+	height: 100vh;
+    width: 100%;
+    z-index: -2;
+    background-image: url(../Images/Portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+}
+
+ #social{
+ 	background-color: #300D0D;
+ }
+
+.col-2{
+	padding: 0;
+}
+
+.nav a{
+	font-size:1.9em;
+	color:#fcfae1;
+	text-decoration: none;
+	z-index: 0;
+	font-family: roboto thin;
+}
+
+.hover {
+	background-color: rgba(252,250,225,0.1);
+	width: 100%;
+	z-index: -1;
+	border-top-left-radius:100%;
+	border-top-right-radius: 100%;
+	-webkit-transition: width 0.5s;
+	transition: 0.5s;
+}
+
+.title {
+	color:#fcfae1;
+	font-family: roboto medium;
+	text-shadow: -1px 0 #bd8d46, 0 1px #bd8d46, 1px 0 #bd8d46, 0 -1px #bd8d46;
+
+}
+
+
+
+.nav .cont{
+	width: 100%;
+	border-bottom: 1px solid white;
+	border-bottom-width: 1px;
+	padding: 0;
+}
+
+.imagenPersonal img{
+	margin-top:-1%;
+	border-radius: 50%;
+	width: 18%;
+}
+
+.imagenPersonal{
+	padding: 20px;
+}
+
+h1{
+	font-size:2em;
+}
+
+#AboutMe {
+	padding: 10px;
+}
+
+#social a{
+	padding: 10px;
+}
+
+#rs {
+	opacity: 0.6;
+}
+
+#rs:hover{
+	opacity: 1;
+}
+
+#social {
+	padding: 10px;
+}
+
+#Content {
+	background-color:#FCFAE1;
+}
+
+.btn-danger, .badge-danger {
+    color: #FCFAE1;
+    background-color: #4C1B1B;
+    border-color: #4C1B1B;
+}
+
+.btn-danger:hover{
+    color: #FCFAE1;
+    background-color: #6E1111;
+    border-color: #6E1111;
+}
+
+h2 {
+	font-family: roboto Light;
+	color: #4C1B1B;
+	font-size: 3.5em;
+}
+
+.carousel-inner{
+	margin:auto;
+	height: 100vh;
+	width: 100%;
+}
+
+.carousel-inner img{
+	width: 100vh;
+	height: 100vh;
+}
+
+.carousel-caption h3{
+	font-size: 2em;
+	font-family: roboto Regular;
+	margin-bottom: .5em;
+	color: #E6E6E6;
+	text-shadow: -1px 0 #191919, 0 1px #191919, 1px 0 #191919, 0 -1px #191919;
+}
+
+.carousel-caption p{
+	font-size: 1.1em;
+	font-family: roboto Light;
+	margin-bottom: .5em;
+	color: #E6E6E6;
+	text-shadow: -0.5px 0 #191919, 0 0.5px #191919, 0.5px 0 #191919, 0 -0.5px #191919;
+}
+
+
+#About {
+	font-family: roboto Regular;
+	font-size: 20px;
+}
+
+#Skills {
+	padding: 10px;
+}
+
+#Skills ul{
+	margin-top:30px;
+}
+
+#Skills p {
+	font-family: roboto Regular;
+	font-size: 20px;
+}
+
+@media screen and (min-height: 1200px){
+
+	.imagenPersonal img{
+	border-radius: 50%;
+	width:50%;
+	margin-top:15%;
+	}
+
+	h1{
+		font-size:5em;
+	}
+
+}
+
+
+
+/* Tablets */
+
+@media screen and (min-width: 750px) and (max-width: 900px) {
+	.nav a{
+		font-size:1.5em;
+	}
+	.imagenPersonal img{
+	border-radius: 50%;
+	width:25%;
+	margin-top:1em;
+	}
+
+	h1{
+		font-size:3em;
+	}
+
+	.uminks img{
+		width: 70%;
+	}
+}
+
+/* Moviles */
+
+@media screen and (max-width: 749px){
+
+	.nav a{
+		display: none;
+	}
+
+	.nav .cont{
+		border:none;
+	}
+
+	.uminks img{
+		width: 90%;
+		
+	}
+
+	.imagenPersonal img{
+		width: 40%;
+	}
+
+	.title {
+		width: 50%;
+	}
+	
+	.Menu {
+		color:#fcfae1;
+		font-size: 2.5em;
+		
+	}
+
+	.btn-danger{
+		width:100%;
+	}
+	
+}
+
+
+@media screen and (min-height:416px) and (max-height: 480px){
+
+	.uminks img{
+		width: 95%;
+		margin-top:-70%;
+	}
+
+	.imagenPersonal img{
+		margin-top:-8%;
+		width: 40%;
+	}
+
+	.title {
+		width: 40%;
+	}
+
+}
+
+@media screen and (max-height: 415px){
+		.uminks img{
+		width: 100%;
+		margin-top:-50%;
+		margin-left:140%;
+	}
+
+	.imagenPersonal img{
+		margin-top:-40%;
+		width: 30%;
+	}
+
+	.title {
+		margin-top:-10%;
+		width: 10%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Iconos */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?w3b8fl');
+  src:  url('../fonts/icomoon.eot?w3b8fl#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?w3b8fl') format('truetype'),
+    url('../fonts/icomoon.woff?w3b8fl') format('woff'),
+    url('../fonts/icomoon.svg?w3b8fl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-compass:before {
+  content: "\e949";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-point:before {
+  content: "\ea04";
+}
+.icon-face:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-steam:before {
+  content: "\eaad";
+}
+.icon-github:before {
+  content: "\eab0";
+}
