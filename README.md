@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DevelTwist — Software con lógica. Ideas con twist." width="100%" />
+  <img src="assets/banner.svg" alt="DevelTwist — Software with logic. Ideas with a twist." width="100%" />
 </p>
 
-<h1 align="center">Hola, soy Luis 👋</h1>
-<p align="center"><strong>Senior Full Stack Engineer</strong><br/>Venezuela · Trabajo remoto 🌎</p>
+<h1 align="center">Hi, I’m Luis 👋</h1>
+<p align="center"><strong>Senior Full Stack Engineer</strong><br/>Venezuela · Working remotely 🌎</p>
 
-Construyo productos web, conecto sistemas y automatizo procesos. Más de **7 años de experiencia** entre backend, frontend e inteligencia artificial.
+I build web products, connect systems, and automate workflows. **7+ years of experience** across backend, frontend, and AI.
 
-Me gusta convertir ideas complejas en software que se sienta simple. Un poco de lógica, un poco de creatividad y un twist. 🧩
+I enjoy turning complex ideas into software that feels simple. A little logic, a little creativity, and a twist. 🧩
 
-### 🛠️ Mi stack
+### 🛠️ My stack
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" />
@@ -25,10 +25,10 @@ Me gusta convertir ideas complejas en software que se sienta simple. Un poco de 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
-`IA y automatización` · `APIs e integraciones` · `SaaS` · `eCommerce`
+`AI & automation` · `APIs & integrations` · `SaaS` · `eCommerce`
 
-### 🤝 ¿Tienes algo en mente?
+### 🤝 Have something in mind?
 
-Hablemos de tu próxima idea, proyecto o colaboración.
+Let’s talk about your next idea, project, or collaboration.
 
-**[🌐 Portafolio](https://www.develtwist.com/es)** · **[💬 LinkedIn](https://www.linkedin.com/in/luisfvargas/)** · **[🚀 Upwork](https://www.upwork.com/freelancers/developtwist)**
+**[🌐 Portfolio](https://www.develtwist.com/)** · **[💬 LinkedIn](https://www.linkedin.com/in/luisfvargas/)** · **[🚀 Upwork](https://www.upwork.com/freelancers/developtwist)**
