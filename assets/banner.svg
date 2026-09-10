@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">DevelTwist — Luis Vargas</title>
+  <desc id="desc">Software con lógica. Ideas con twist. Banner oscuro con trazos cyan y violeta y un símbolo de código.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#c4a1ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#20263b" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#0d111b"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M800 0C720 140 1080 140 990 360M910 0C830 140 1190 140 1100 360" stroke="url(#accent)" stroke-width="2" fill="none" opacity=".45"/>
+  <rect x="48" y="44" width="290" height="30" rx="15" fill="#20263b"/>
+  <circle cx="65" cy="59" r="4" fill="#67e8f9"/>
+  <text x="80" y="64" fill="#d5daea" font-family="monospace" font-size="13" letter-spacing="2">LUIS VARGAS / SOFTWARE ENGINEER</text>
+  <text x="48" y="160" fill="#f0f4ff" font-family="Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-4">Devel<tspan fill="url(#accent)">Twist</tspan><tspan fill="#67e8f9">_</tspan></text>
+  <text x="52" y="214" fill="#e1e5f0" font-family="Arial, sans-serif" font-size="27">Software con lógica. Ideas con twist.</text>
+  <text x="52" y="298" fill="#b8c4da" font-family="monospace" font-size="16" letter-spacing="2">AI + AUTOMATION / BACKEND / WEB</text>
+  <g stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m947 112-54 58 54 58m117-116 54 58-54 58m-41-137-37 158"/></g>
+</svg>
