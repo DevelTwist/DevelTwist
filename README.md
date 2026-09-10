@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DevelTwist — Software with logic. Ideas with a twist." width="100%" />
+  <img src="assets/banner.svg" alt="DevelTwist — From what if to what’s next." width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Luis 👋</h1>
